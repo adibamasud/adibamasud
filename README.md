@@ -27,7 +27,7 @@
 
 📫 How to reach me:
 - Email: adiba.masud@utsa.edu
--  LinkedIn: https://www.linkedin.com/in/adiba-masud-2531b7194 
+-  LinkedIn: https://www.linkedin.com/in/adimasud/ 
 
 ⚡ Fun facts:
 - I'm originally from Bangladesh
@@ -40,7 +40,7 @@
   <a href="https://scholar.google.com/citations?user=qRy0ZCgAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/adiba-masud-2531b7194/" target="_blank">
+  <a href="https://www.linkedin.com/in/adimasud//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.researchgate.net/profile/Adiba-Masud-2?ev=hdr_xprf" target="_blank">
@@ -81,7 +81,7 @@
 
 📫 I'm always open to connecting with fellow students, researchers, and enthusiasts in my field. Let's connect and learn from each other!
 
--
+
 ## Feedback
 
 📝 Your feedback is valuable to me! If you have any suggestions for improving my thesis work, projects, or resources, please feel free to share them. Let's continue to grow together!
