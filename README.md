@@ -6,7 +6,7 @@
 
 🎓 I have graduated from Jahangirnagar University doing my major in Information System 
 
-💻 All of my projects are available at [github.com/adibaiitju](https://github.com/adibaiitju)
+💻 All of my projects are available at [github.com/adibaiitju](https://github.com/adibamasud)
 
 📄 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=qRy0ZCgAAAAJ&hl=en)
 
@@ -65,15 +65,15 @@
 
 ### 📊 GitHub Stats
 
-![Adiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibaiitju&show_icons=true&theme=tokyonight)
+![Adiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibamasud&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibaiitju&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibamasud&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📍 Visitor Counter
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adibaiitju.adibaiitju)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adibamasud/adibamasud)
 
 
 
